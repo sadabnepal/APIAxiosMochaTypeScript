@@ -50,4 +50,4 @@ npm test  [run all tests]
 ```
 
 ## Sample Report:
-![image](https://user-images.githubusercontent.com/65847528/147593338-28527381-d818-4b07-b90b-e0d7a1d5f5dd.png)
+![image](https://user-images.githubusercontent.com/65847528/160226992-a1af48c0-2c86-4a54-b3e1-e9f30a048d6a.png)
